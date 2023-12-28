@@ -1,0 +1,7 @@
+time_frame,goals_for_avg,goals_against_avg,shots_on_target_%,crosses,poss_%,min_poss_to_score,pass_success_rate,num_pass_strings,avg_pass_string,atk_third_pass_success_%,mid_third_pass_success_%,def_third_pass_success_%
+0-15,0.5,0,87.5,2.3,56.9,11:12,86,9.5,5.4,76,87,92
+16-30,0.3,0,100,1.5,55.2,20:57,86,10,4.9,79,87,88
+31-45,0.3,0.3,60,0.5,50.7,15:05,81,5.3,5,68,82,83
+46-60,0.8,0,80,0.8,54.6,6:53,80,7.3,4.7,79,80,81
+61-75,0.3,0.3,62.5,1,54.9,20:01,81,6,4.5,75,82,82
+76-90,0.3,0.3,25,0.5,61.3,16:38,84,5,4.7,82,82,93
