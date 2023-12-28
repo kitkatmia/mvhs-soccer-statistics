@@ -16,31 +16,29 @@ MVHS_Soccer_Statistics/
 
 ├── snapshot_1/
 
-│ └── analysis_1.py (data analysis for first 4 games)
+│ └── snapshot_1.ipynb (data analysis for first 4 games)
 
-└── snapshot_2/
-
-└── analysis_2.py (data analysis for next 4 games)
+...and so on
 
 ## Data Analysis Approach
 
-1. Data Collection:
+### 1. Data Collection:
 
-#### See Data Explanation section for a more detailed overview.
-
+- #### See Data Explanation section for a more detailed overview.
 - Team data is collected into CSV files in the data folder. It is based on data given by video analysis done by HUDL
 - Specific data (ex: 8_games_goal_info.csv) is based on data I've gathered watching the videos
 
-2. Snapshot Analysis:
+### 2. Snapshot Analysis:
 
 Data is analyzed in chunks of 4 games within Python files in the snapshot_1, snapshot_2, etc folders.
 Each snapshot focuses on identifying patterns and trends in play - specifically those that are harmful to the team (as judged by being correlated with being scored on more).
 
 - The focus is especially on passing and possession
 
-3. Python Libraries:
-   pandas is used for data manipulation and cleaning.
-   matplotlib is used for creating visualizations to aid in interpretation.
+### 3. Python Libraries:
+
+pandas is used for data manipulation and cleaning.
+matplotlib is used for creating visualizations to aid in interpretation.
 
 ## Insights and Recommendations
 
