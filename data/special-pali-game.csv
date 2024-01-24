@@ -1,0 +1,7 @@
+time_frame,shots_taken,crosses,poss_%,pass_success_rate,num_pass_strings,avg_pass_string,3_to_5_PS,6_plus_PS,atk_third_pass_success_%,pass_attempts_atk,pass_attempts_mid,mid_third_pass_success_%,def_third_pass_success_%,pass_attempts_def
+0-15,2,0,47.7,70,7,4.1,5,2,100,4,38,68,69,29
+16-30,4,1,49.7,70,5,4.4,4,1,60,5,30,67,80,15
+31-45,1,1,53.9,69,2,3.5,2,0,78,9,14,57,83,6
+46-60,1,2,50.4,80,10,4.9,7,3,71,14,42,83,79,14
+61-75,3,4,73.8,75,7,5.4,5,2,67,18,48,75,90,10
+76-90,2,2,37.4,61,2,4.5,2,0,50,4,23,65,56,9
